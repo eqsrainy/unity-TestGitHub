@@ -8,7 +8,7 @@ public class DevTestGitHub : MonoBehaviour
     void Start()
     {
         //Debug.LogFormat("hello world!");
-        Debug.LogFormat("안녕하새요");
+        Debug.LogFormat("안녕하새요 고길동입니다.");
     }
 
     // Update is called once per frame
